@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SK Networks Family AI Bootcamp 1주 정리"
-date:   2025-01-13 12:45:23 +0900
+date:   2025-01-12 12:45:23 +0900
 categories: 공부
 tags : [부트캠프]
 ---
